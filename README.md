@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/tech-lead-boxed.xclass.fig.2025.04.12.png" alt="Tech Lead" width="500"/>
+  <img src="assets/tech-lead-boxed.xclass.fig.2025.04.12.png" alt="Tech Lead" width="500"/>
 </p>
 
 ---
