@@ -1,6 +1,8 @@
-<table>
-<tr>
-  <td>
+<p align="center">
+  <a href="assets/tech-lead-boxed.png">
+    <img src="assets/tech-lead-boxed.png" alt="Tech Lead" width="180"/>
+  </a>
+</p>
 
 ## 🧭 Official Developer Profile: Pyungsun Park (`sclass`) — v1.1.0
 
@@ -15,38 +17,34 @@ No project source code or operational logic is maintained here.
 - Figma: [figma.com/@pyungsunpark](https://www.figma.com/@pyungsunpark)  
 - Discord: `X#1928`
 
-  </td>
-  <td align="right" width="230">
-    <img src="assets/tech-lead-boxed.png" alt="Tech Lead" width="200"/>
-  </td>
-</tr>
-</table>
+---
+
+### 🛠 Head of Research & Development — SSHINE SYSTEMS
+
+**Global Alliance Infrastructure**  
+- SORA Project — Multi-layer symbolic infrastructure (secured)  
+- AWS CLOUD — Core symbolic backbone
 
 ---
 
-### 🛠 Head of Research & Development (SSHINE SYSTEMS)  
-#### Global Alliance Source & Infrastructure
-- **SORA Project (SSHINE SYSTEMS)** — Multi-layer symbolic infrastructure (secured)  
-- **AWS Cloud** — Global relay & deployment scope  
+### 🛠 Asset Management — EnGIS Technologies
 
----
-
-### 🛠 Asset Management  
-#### EnGIS Source & Infrastructure
-- **GitLab (internal)** — Official infrastructure for EnGIS & affiliates  
+**Source & Infra**  
+- GitLab (internal) — Official infrastructure (EnGIS & affiliates)  
 - ~~GitHub (`xclass??`)~~ — *Deprecated* customer-side collaboration only  
-- **GitHub (`ImFatherX`)** — Successor identity (see `IAMFATHERX` on LinkedIn)  
-- **GitHub (`sclass`)** — Identity anchor (this profile)  
-- **AWS CodeSuite** — Selective CI/CD use  
+- GitHub (`ImFatherX`) — Successor identity (see `IAMFATHERX` on LinkedIn)  
+- GitHub (`sclass`) — Identity anchor (this profile)  
+- AWS CodeSuite — Selective CI/CD use  
 
 ---
 
 ### 🧾 Affiliations & Roles
+
 - IEEE Author (Verified)  
 - SAE International Member  
 - GENIVI Alliance Participant (2014–2017)  
 - Architect: Embedded Systems, OTA/Telematics, Symbolic AI Infra  
-- Current Affiliation: **SSHINE SYSTEMS / SORA / VaultX**
+- Current Affiliation: SSHINE SYSTEMS / SORA / VaultX
 
 ---
 
