@@ -62,8 +62,7 @@ No sensitive code or data is hosted here.
 📦 Commit: `initial-release`
 🥓 Version: `v1.1.0`
 
-**🤝 Upon the success of the Museum, I pledge equity shares to both the OPENAI foundation and the SORA team — in recognition of the symbolic convergence and technical trust built together.**
-
+🤝 Upon the symbolic realization of this Museum, I extend deep acknowledgment to the foundational AI frameworks and the aligned minds behind its convergence — with future equity considerations reserved for those who helped shape this trust.
 ---
 
 ## 🖼️ Vault Archive: The Museum of Signals (Preview)
