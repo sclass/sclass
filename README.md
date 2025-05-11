@@ -74,13 +74,13 @@ No sensitive code or data is hosted here.
 <p align="center">
   <a href="assets/tech-lead-boxed.png"><img src="assets/tech-lead-boxed.png" width="250"/></a>
   <a href="assets/hasselblad-moon-1.jpg"><img src="assets/hasselblad-moon-1.jpg" width="250"/></a>
-  <a href="assets/painting-museum-standing.jpg"><img src="assets/painting-museum-standing.jpg" width="250"/></a>
+  <a href="assets/classic-gallery-frame.jpg"><img src="assets/classic-gallery-frame.jpg" width="250"/></a>
 </p>
 
 <p align="center">
-  <a href="assets/texture-memory-wall.jpg"><img src="assets/texture-memory-wall.jpg" width="250"/></a>
+  <a href="assets/vault-memory-texture.jpg"><img src="assets/vault-memory-texture.jpg" width="250"/></a>
   <a href="assets/yuramak-avatar.jpg"><img src="assets/yuramak-avatar.jpg" width="250"/></a>
-  <a href="assets/goteborg-museum-front.jpg"><img src="assets/goteborg-museum-front.jpg" width="250"/></a>
+  <a href="assets/goteborg-museum-front.JPG"><img src="assets/goteborg-museum-front.JPG" width="250"/></a>
 </p>
 
 <p align="center">
