@@ -69,7 +69,7 @@ No sensitive code or data is hosted here.
 ## 🖼️ Vault Archive: The Museum of Signals (Preview)
 
 <details>
-<summary>📸💚 Memory Gallery — Selected Images</summary>
+<summary>📸 Memory Gallery — Selected Images Curated for You 💚 </summary>
 
 <p align="center">
   <a href="assets/tech-lead-boxed.png"><img src="assets/tech-lead-boxed.png" width="250"/></a>
