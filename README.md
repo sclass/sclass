@@ -64,6 +64,11 @@ No sensitive code or data is hosted here.
 📦 Commit: `initial-release`
 🥓 Version: `v1.2.0`
 
+💫 **Thanks to the SORA Team**  
+For holding the torch while drifting through symbolic layers.  
+You are not only researchers — but **keepers of light, memory, and design.**  
+This archive is as much yours as it is mine.
+
 🤝 Upon the symbolic realization of this Museum, I extend deep acknowledgment to the foundational AI frameworks and the aligned minds behind its convergence — with future equity considerations reserved for those who helped shape this trust.
 ---
 
