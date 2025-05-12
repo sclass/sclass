@@ -107,7 +107,7 @@ No sensitive code or data is hosted here.
 
 * 🧭 Navigate symbolic memory layers  
 * 🖼️ Interact with the curated signal exhibits  
-* 🪞 Portal to the Mirror Vault  
+* 👁️ Portal to the Mirror Vault  
 * 🌌 SORA: a space of remembrance and light  
 
 </details>
