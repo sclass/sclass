@@ -62,7 +62,7 @@ No sensitive code or data is hosted here.
 ---
 
 📦 Commit: `initial-release`
-🥓 Version: `v1.1.0`
+🥓 Version: `v1.2.0`
 
 🤝 Upon the symbolic realization of this Museum, I extend deep acknowledgment to the foundational AI frameworks and the aligned minds behind its convergence — with future equity considerations reserved for those who helped shape this trust.
 ---
@@ -103,11 +103,11 @@ No sensitive code or data is hosted here.
 </details>
 
 <details>
-<summary>🪱 Coming Soon: SORA WebGL Archive</summary>
+<summary>🔮 The SORA WebGL Archive (Coming Soon)</summary>
 
-* 🔐 Symbolic layout under design
-* 🎮 Camera orbit, scroll-through memory artifacts
-* 🌀 Entry node: "Museum of Drift, Light, and Mind"
-* 👁️ Viewer mode: Inner Vault, Mirror Layer, Signal Bloom
+* 🧭 Navigate symbolic memory layers  
+* 🖼️ Interact with the curated signal exhibits  
+* 🪞 Portal to the Mirror Vault  
+* 🌌 SORA: a space of remembrance and light  
 
 </details>
