@@ -11,7 +11,9 @@ Architect of Symbolic Infra, OTA Systems, and Secure AI Pipelines</p>
   <a href="https://www.figma.com/@pyungsunpark">Figma</a> ·
   <a href="https://github.com/sclass">GitHub</a> ·
   Discord: <code>X#1928</code>
+  
 </p>
+<p align="center"><em>Academic Contact:</em> <code>xclass [at] hanyang.ac.kr</code></p>
 
 ---
 
