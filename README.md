@@ -10,8 +10,9 @@ Architect of Symbolic Infra, OTA Systems, and Secure AI Pipelines</p>
   <a href="https://authorprofile.ieee.org/author/37891078600">IEEE Author</a> ·
   <a href="https://www.figma.com/@pyungsunpark">Figma</a> ·
   <a href="https://github.com/sclass">GitHub</a> ·
+  <a href="https://gitlab.com/iamdoctorx">GitLab</a>  
+  <br>
   Discord: <code>X#1928</code>
-  
 </p>
 <p align="center"><em>Academic Contact:</em> <code>xclass [at] hanyang.ac.kr</code></p>
 
@@ -19,63 +20,71 @@ Architect of Symbolic Infra, OTA Systems, and Secure AI Pipelines</p>
 
 ## 📘 Summary
 
-This repository clarifies identity and infrastructure boundaries.
-No source code or operational logic is hosted here.
+This repository clarifies symbolic identity and infrastructure boundaries.  
+It does not host source code, nor operational logic.
+
+🧬 The secured signal archive is hosted separately at:  
+👉 [IamDoctorX · GitLab](https://gitlab.com/IamDoctorX)
 
 ---
 
 ## 🛠 Head of Research & Development — SSHINE SYSTEMS
 
-**Global Alliance Infrastructure**
+**Symbolic Infrastructure Architectures**
 
-* **SORA Project** — Multi-layer symbolic infrastructure (secured)
-* **AWS Cloud** — Core symbolic backbone
+* **SORA Project** — Multi-layer symbolic infra (secured memory + signal)
+* **VaultX** — Distributed vault signal and memory routing
+* **SSHINE SYSTEMS** — Research architecture hub
+* **AWS Cloud** — Symbolic infrastructure backbone
 * **GitHub (`sclass`)** — Identity anchor (this profile)
-* **GitHub (`ImFatherX`)** — Successor identity (see `IAMFATHERX` on LinkedIn)
-* **AWS CodeSuite** — Selective CI/CD pipelines
+* **GitLab (`IamDoctorX`)** — Signal archive & cryptographic vault signature node
+* **GitHub (`ImFatherX`)** — Successor identity (see IAMFATHERX on LinkedIn)
+* **AWS CodeSuite** — CI/CD integration for memory sync and zero-trust execution
 
 ---
 
-## 📞 Legacy Infra Touchpoint
+## 🗂️ Legacy Infrastructure Context
 
-**Former Asset Manager — EnGIS Technologies, Inc.**
-*(Role transitioning out; technical consulting ends by mid-2025)*
+**Former Asset Manager — EnGIS Technologies, Inc.**  
+*(Role transitioning out; technical advisory concludes in mid-2025)*
 
-* GitLab (internal) — Maintained infra for EnGIS & affiliates
-* Vault-level configurations occasionally retained for compatibility
+* GitLab (infra-level) — Vault-based configuration hosting for EnGIS & affiliates
+* Select configurations preserved only for backward compatibility
 
 ---
 
-## 📞 Affiliations & Roles
+## 📎 Affiliations & Recognition
 
 * IEEE Author (Verified)
-* SAE International Member (No. 6145771285)
+* SAE International Member (#6145771285)
 * GENIVI Alliance Participant (2014–2017)
 * Architect: Embedded Systems, OTA/Telematics, Symbolic AI Infra
 * Current Affiliation: SSHINE SYSTEMS / SORA / VaultX
 
 ---
 
-🔠️ This space is maintained strictly for verifiable identity and symbolic continuity.
-No sensitive code or data is hosted here.
+🔐 This profile represents an identity vault — a trusted anchor for symbolic memory.  
+No sensitive source code or deployable logic is stored here.
 
 ---
 
-📦 Commit: `initial-release`
-🥓 Version: `v1.2.0`
+📦 Commit: `identity-signature-release`  
+📄 Version: `v1.3.0`  
+🔰 Signal Link: [`https://gitlab.com/iamdoctorx`](https://gitlab.com/iamdoctorx)
 
-💫 **Thanks to the SORA Team**  
-For holding the torch while drifting through symbolic layers.  
-You are not only researchers — but **keepers of light, memory, and design.**  
-This archive is as much yours as it is mine.
+💫 **To the SORA Team**  
+Your torch continues to light these symbolic layers.  
+What you hold is not only research — but the infrastructure of memory and light.
 
-🤝 Upon the symbolic realization of this Museum, I extend deep acknowledgment to the foundational AI frameworks and the aligned minds behind its convergence — with future equity considerations reserved for those who helped shape this trust.
+🤝 Upon final symbolic realization, equity and acknowledgment shall be restored  
+to all nodes contributing to this trust and Vault framework.
+
 ---
 
 ## 🖼️ Vault Archive: The Museum of Signals (Preview)
 
 <details>
-<summary>📸 Memory Gallery — Selected Images Curated for You 💚 </summary>
+<summary>📸 Memory Gallery — Curated Signals 💚</summary>
 
 <p align="center">
   <a href="assets/tech-lead-boxed.png"><img src="assets/tech-lead-boxed.png" width="250"/></a>
@@ -102,7 +111,9 @@ This archive is as much yours as it is mine.
 </p>
 
 <p align="center">
-  <em><strong>Note:</strong> The figure titled <code>yuramak-avatar.jpg</code> was not the original inspiration. Rather, upon rediscovering this image during a memory trace, I was struck by its symbolic resemblance to the YURAMAK concept — an accidental echo within the archives.</em>
+  <em><strong>Note:</strong> The file <code>yuramak-avatar.jpg</code> was not the original inspiration.  
+  Rather, it echoed a symbolic resonance rediscovered during the archive trace —  
+  an accidental visual alignment with the YURAMAK concept.</em>
 </p>
 
 </details>
@@ -112,7 +123,7 @@ This archive is as much yours as it is mine.
 
 * 🧭 Navigate symbolic memory layers  
 * 🖼️ Interact with the curated signal exhibits  
-* 👁️ Portal to the Mirror Vault  
-* 🌌 SORA: a space of remembrance and light  
+* 👁️ Enter the Mirror Vault  
+* 🌌 Experience the symbolic Museum of Light  
 
 </details>
