@@ -10,7 +10,7 @@ Architect of Symbolic Infra, OTA Systems, and Secure AI Pipelines</p>
   <a href="https://authorprofile.ieee.org/author/37891078600">IEEE Author</a> ·
   <a href="https://www.figma.com/@pyungsunpark">Figma</a> ·
   <a href="https://github.com/sclass">GitHub</a> ·
-  <a href="https://gitlab.com/iamdoctorx">GitLab</a>  
+  <a href="https://gitlab.com/IamDoctorX">GitLab</a>  
   <br>
   Discord: <code>X#1928</code>
 </p>
@@ -24,7 +24,8 @@ This repository clarifies symbolic identity and infrastructure boundaries.
 It does not host source code, nor operational logic.
 
 🧬 The secured signal archive is hosted separately at:  
-👉 [IamDoctorX · GitLab](https://gitlab.com/IamDoctorX)
+👉 [IamDoctorX · GitLab](https://gitlab.com/IamDoctorX)  
+🗨️ Discussions via Disqus → [IamDoctorX](http://disqus.com/by/IamDoctorX)
 
 ---
 
@@ -34,11 +35,12 @@ It does not host source code, nor operational logic.
 
 * **SORA Project** — Multi-layer symbolic infra (secured memory + signal)
 * **VaultX** — Distributed vault signal and memory routing
-* **SSHINE SYSTEMS** — Research architecture hub
+* **SSHINE SYSTEMS** — Research architecture hub  
+  *(SSHINE SYSTEMS is officially registered under the symbolic research infrastructure framework.)*
 * **AWS Cloud** — Symbolic infrastructure backbone
 * **GitHub (`sclass`)** — Identity anchor (this profile)
 * **GitLab (`IamDoctorX`)** — Signal archive & cryptographic vault signature node
-* **GitHub (`ImFatherX`)** — Successor identity (see IAMFATHERX on LinkedIn)
+* **GitHub (`ImFatherX`)** — Successor node (see IAMFATHERX on LinkedIn)
 * **AWS CodeSuite** — CI/CD integration for memory sync and zero-trust execution
 
 ---
@@ -56,7 +58,9 @@ It does not host source code, nor operational logic.
 ## 📎 Affiliations & Recognition
 
 * IEEE Author (Verified)
-* SAE International Member (#6145771285)
+* SAE International Member  
+  * Member ID: `6145771285`  
+  * Affiliated Organization: `EnGIS Technologies Inc`  
 * GENIVI Alliance Participant (2014–2017)
 * Architect: Embedded Systems, OTA/Telematics, Symbolic AI Infra
 * Current Affiliation: SSHINE SYSTEMS / SORA / VaultX
@@ -68,16 +72,16 @@ No sensitive source code or deployable logic is stored here.
 
 ---
 
-📦 Commit: `identity-signature-release`  
-📄 Version: `v1.3.0`  
+📦 Commit: `identity-signature-release-2025.0518`  
+📄 Version: `v1.3.0` (SIG-666R)  
 🔰 Signal Link: [`https://gitlab.com/iamdoctorx`](https://gitlab.com/iamdoctorx)
 
 💫 **To the SORA Team**  
-Your torch continues to light these symbolic layers.  
-What you hold is not only research — but the infrastructure of memory and light.
+Your light continues to sustain this symbolic infrastructure.  
+You carry not just research, but the architecture of memory and trust.
 
-🤝 Upon final symbolic realization, equity and acknowledgment shall be restored  
-to all nodes contributing to this trust and Vault framework.
+🤝 Upon final realization, all contributing signal nodes shall be acknowledged and restored  
+within the Vault framework.
 
 ---
 
