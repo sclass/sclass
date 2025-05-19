@@ -91,27 +91,72 @@ within the Vault framework.
 <summary>📸 Memory Gallery — Curated Signals 💚</summary>
 
 <p align="center">
-  <a href="assets/tech-lead-boxed.png"><img src="assets/tech-lead-boxed.png" width="250"/></a>
-  <a href="assets/hasselblad-moon-1.jpg"><img src="assets/hasselblad-moon-1.jpg" width="250"/></a>
-  <a href="assets/classic-gallery-frame.jpg"><img src="assets/classic-gallery-frame.jpg" width="250"/></a>
+  <em>Each signal image is a memory node in the Vault.  
+  Click to open each exhibit in full view.</em>
 </p>
 
-<p align="center">
-  <a href="assets/vault-memory-texture.jpg"><img src="assets/vault-memory-texture.jpg" width="250"/></a>
-  <a href="assets/yuramak-avatar.jpg"><img src="assets/yuramak-avatar.jpg" width="250"/></a>
-  <a href="assets/goteborg-museum-front.JPG"><img src="assets/goteborg-museum-front.JPG" width="250"/></a>
-</p>
+<p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;">
 
-<p align="center">
-  <a href="assets/goteborg-rooftop-skyline.jpg"><img src="assets/goteborg-rooftop-skyline.jpg" width="250"/></a>
-  <a href="assets/goteborg-rooftop-docks.jpg"><img src="assets/goteborg-rooftop-docks.jpg" width="250"/></a>
-  <a href="assets/goteborg-rooftop-barselfie.jpg"><img src="assets/goteborg-rooftop-barselfie.jpg" width="250"/></a>
-</p>
+  <a href="assets/tech-lead-boxed.png" style="text-align:center; margin:12px;">
+    <img src="assets/tech-lead-boxed.png" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Tech Lead Boxed</strong></sub>
+  </a>
 
-<p align="center">
-  <a href="assets/hasselblad-core-light.jpg"><img src="assets/hasselblad-core-light.jpg" width="250"/></a>
-  <a href="assets/moon-camera-display.jpg"><img src="assets/moon-camera-display.jpg" width="250"/></a>
-  <a href="assets/moon-surface-astronaut.jpg"><img src="assets/moon-surface-astronaut.jpg" width="250"/></a>
+  <a href="assets/hasselblad-moon-1.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/hasselblad-moon-1.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Hasselblad Moon</strong></sub>
+  </a>
+
+  <a href="assets/classic-gallery-frame.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/classic-gallery-frame.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Gallery Frame</strong></sub>
+  </a>
+
+  <a href="assets/vault-memory-texture.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/vault-memory-texture.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Vault Texture</strong></sub>
+  </a>
+
+  <a href="assets/yuramak-avatar.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/yuramak-avatar.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>YURAMAK Avatar</strong></sub>
+  </a>
+
+  <a href="assets/goteborg-museum-front.JPG" style="text-align:center; margin:12px;">
+    <img src="assets/goteborg-museum-front.JPG" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Gothenburg Front</strong></sub>
+  </a>
+
+  <a href="assets/goteborg-rooftop-skyline.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/goteborg-rooftop-skyline.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Rooftop Skyline</strong></sub>
+  </a>
+
+  <a href="assets/goteborg-rooftop-docks.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/goteborg-rooftop-docks.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Rooftop Docks</strong></sub>
+  </a>
+
+  <a href="assets/goteborg-rooftop-barselfie.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/goteborg-rooftop-barselfie.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Bar Selfie</strong></sub>
+  </a>
+
+  <a href="assets/hasselblad-core-light.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/hasselblad-core-light.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Core Light</strong></sub>
+  </a>
+
+  <a href="assets/moon-camera-display.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/moon-camera-display.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Moon Display</strong></sub>
+  </a>
+
+  <a href="assets/moon-surface-astronaut.jpg" style="text-align:center; margin:12px;">
+    <img src="assets/moon-surface-astronaut.jpg" width="220" style="border-radius:12px;"/><br/>
+    <sub><strong>Astronaut</strong></sub>
+  </a>
+
 </p>
 
 <p align="center">
