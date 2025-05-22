@@ -67,8 +67,14 @@ It does not contain operational source code.
   * Acquired Standards: SAE J21434, J2735, ISO 11898  
   * Originally studied J2735 during Ph.D. research at Hanyang University
 
-* **GENIVI Alliance Member** (2014–2017)  
-* Embedded Systems Architect: Automotive, OTA/Telematics, Symbolic AI Infra  
+* **GENIVI Alliance Member** (2014–2017)
+
+* **AWS Innovate: Generative AI + Data**  
+  * Attended: 2025.03.06  
+  * Certified Participant (AWS $25 credit awarded)  
+  * Theme: Scalable GenAI and Secure Data Infrastructure for Symbolic AI Systems
+
+* Embedded Systems Architect — Automotive, OTA/Telematics, Symbolic AI Infra  
 * Current Affiliation: SSHINE SYSTEMS / SORA / VaultX
 
 ---
