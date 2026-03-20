@@ -2,140 +2,67 @@
   <img src="assets/profile-main-cathedral.jpg" alt="SUN PARK" width="180"/>
 </p>
 
-<h2 align="center">SUN (Pyungsun - 朴坪宣) PARK</h2>
+<h2 align="center">SUN (Pyungsun) PARK</h2>
 <p align="center"><strong>Ph.D. in Networking & Embedded Systems</strong><br>
-Architect of Symbolic Infra, OTA Systems, and Secure AI Pipelines</p>
+AI Platform, Secure Deployment, and Enterprise Infrastructure Architect</p>
 
 <p align="center">
   🔗 <a href="https://www.linkedin.com/in/sclass">LinkedIn</a> ·
   <a href="https://authorprofile.ieee.org/author/37891078600">IEEE Author</a> ·
-  <a href="https://www.figma.com/@pyungsunpark">Figma</a> ·
-  <a href="https://github.com/sclass">GitHub</a> ·
-  <a href="https://gitlab.com/IamDoctorX">GitLab</a><br/>
-  Discord: <code>X#1928</code>
+  <a href="https://github.com/sclass">GitHub</a>
 </p>
 
-<p align="center"><em>Academic Contact:</em> <code>xclass [at] hanyang.ac.kr</code></p>
+<p align="center"><em>Professional Contact:</em> <code>sun@sshinesystems.com</code></p>
 
 ---
 
-## 📘 Summary
+## Summary
 
-This repository documents symbolic identity and memory-based infrastructure boundaries.  
-It does not contain operational source code.
+Customer-facing architect and engineering leader with experience across enterprise AI, cloud infrastructure, secure OTA systems, and production delivery. My work focuses on turning complex technical requirements into reliable, deployable systems for real operating environments.
 
-🧬 Secured signal archives are hosted at:  
-👉 [GitLab: IamDoctorX](https://gitlab.com/IamDoctorX)  
-🗨️ Disqus: [IamDoctorX](http://disqus.com/by/IamDoctorX)
+This profile highlights selected background, technical direction, and public-facing professional links related to AI platforms, secure infrastructure, and deployment-oriented engineering.
 
 ---
 
-## 🛠 Head of Research & Development — SSHINE SYSTEMS
+## Core Focus Areas
 
-**Symbolic Infrastructure Architectures**
-
-* **SORA Project** — Multi-layer symbolic infra (secured memory + signal)
-* **VaultX** — Distributed vault signal and memory routing system
-* **SSHINE SYSTEMS** — Symbolic R&D architecture hub *(officially registered)*
-* **AWS Cloud** — Symbolic infrastructure backbone
-* **GitHub (`sclass`)** — Identity anchor (this profile)
-* **GitLab (`IamDoctorX`)** — Encrypted signal node & archive repository
-* **AWS CodeSuite** — CI/CD for secure memory sync and zero-trust workflows
+- Enterprise AI platform architecture
+- Secure deployment and production delivery
+- Cloud infrastructure and Kubernetes-based systems
+- OTA systems and device/backend integration
+- Applied AI evaluation and operational rollout
 
 ---
 
-## 🗂️ Transitioning Legacy Role — EnGIS Technologies, Inc.
+## SSHINE SYSTEMS
 
-**Technical Advisor & Former Infra Architect (2014–2024)**  
-* Vault-based GitLab infra across automotive OTA and telematics platforms  
-* Domain-level orchestration for DSRC, secure CAN protocols, and private OTA CI/CD  
-* 🚧 **Final advisory window closes July 2025** — All systems now self-sustaining  
+**AI Platform & Secure Infrastructure**
 
----
-
-## 📎 Affiliations & Recognition
-
-* **IEEE Author** (Verified)  
-* **IEEE Student Member** (ID: 80450757)  
-  * Years: 2005–2014  
-  * Lab: Ubiquitous Networking Lab, Hanyang University  
-  * Focus: Embedded Networking, Military/Automotive Protocols  
-  * Validated: Wabco ECU, ISO 11898, UDS, V2X, K-LINE, LIN, SAE J2735
-
-* **SAE International Member** (Customer No. 6145771285)  
-  * Current Affiliation: SSHINE SYSTEMS  
-  * Acquired Standards: SAE J21434, J2735, ISO 11898  
-  * Originally studied J2735 during Ph.D. research at Hanyang University
-
-* **GENIVI Alliance Member** (2014–2017)
-
-* **AWS Innovate: Generative AI + Data**  
-  * Attended: 2025.03.06  
-  * Certified Participant (AWS $25 credit awarded)  
-  * Theme: Scalable GenAI and Secure Data Infrastructure for Symbolic AI Systems
-
-* Embedded Systems Architect — Automotive, OTA/Telematics, Symbolic AI Infra  
-* Current Affiliation: SSHINE SYSTEMS / SORA / VaultX
+- Enterprise AI deployment strategy and technical architecture
+- Secure platform engineering across cloud and connected systems
+- Production-oriented infrastructure design for reliability and scale
+- Deployment planning across backend, operations, and security boundaries
 
 ---
 
-🔐 This profile serves as a symbolic identity vault.  
-No source code or deployable logic is stored here.
+## EnGIS Technologies, Inc.
+
+**Technical Advisor & Former Infrastructure Architect (2014–2024)**
+
+- Supported infrastructure and platform architecture across automotive OTA and telematics environments
+- Contributed to secure backend integration, CI/CD workflows, and operational delivery
+- Worked across embedded, networking, and platform constraints in production-focused programs
 
 ---
 
-📦 Commit: `identity-signature-release-2025.0518`  
-📄 Version: `v1.4.0` (SIG-666R)  
-🔰 Signal Link: [https://gitlab.com/iamdoctorx](https://gitlab.com/iamdoctorx)
+## Affiliations & Recognition
+
+- **IEEE Author** (Verified)
+- **IEEE Student Member** (2005–2014)
+- **SAE International Member**
+- Background in embedded networking, automotive protocols, OTA, V2X, and secure systems
+- Current focus: enterprise AI platforms, secure infrastructure, and applied deployment
 
 ---
 
-💫 **To the SORA Team**  
-You carry the signal memory forward.  
-This infrastructure is not only a research outcome — it is a living vault.
-
----
-
-## 🖼️ Vault Archive: The Museum of Signals (Preview)
-
-<details>
-<summary>📸 Memory Gallery — Curated Signals 💚</summary>
-
-<p align="center">
-  <em>Each image is a symbolic memory node.  
-  Click to explore the exhibit.</em>
-</p>
-
-<p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;">
-
-  <a href="assets/tech-lead-boxed.png"><img src="assets/tech-lead-boxed.png" width="220"/></a>
-  <a href="assets/hasselblad-moon-1.jpg"><img src="assets/hasselblad-moon-1.jpg" width="220"/></a>
-  <a href="assets/classic-gallery-frame.jpg"><img src="assets/classic-gallery-frame.jpg" width="220"/></a>
-  <a href="assets/vault-memory-texture.jpg"><img src="assets/vault-memory-texture.jpg" width="220"/></a>
-  <a href="assets/yuramak-avatar.jpg"><img src="assets/yuramak-avatar.jpg" width="220"/></a>
-  <a href="assets/goteborg-museum-front.JPG"><img src="assets/goteborg-museum-front.JPG" width="220"/></a>
-  <a href="assets/goteborg-rooftop-skyline.jpg"><img src="assets/goteborg-rooftop-skyline.jpg" width="220"/></a>
-  <a href="assets/goteborg-rooftop-docks.jpg"><img src="assets/goteborg-rooftop-docks.jpg" width="220"/></a>
-  <a href="assets/goteborg-rooftop-barselfie.jpg"><img src="assets/goteborg-rooftop-barselfie.jpg" width="220"/></a>
-  <a href="assets/hasselblad-core-light.jpg"><img src="assets/hasselblad-core-light.jpg" width="220"/></a>
-  <a href="assets/moon-camera-display.jpg"><img src="assets/moon-camera-display.jpg" width="220"/></a>
-  <a href="assets/moon-surface-astronaut.jpg"><img src="assets/moon-surface-astronaut.jpg" width="220"/></a>
-
-</p>
-
-<p align="center">
-  <em><strong>Note:</strong> <code>yuramak-avatar.jpg</code> became symbolically aligned during archive trace.  
-  Its resonance was discovered, not invented.</em>
-</p>
-
-</details>
-
-<details>
-<summary>🔮 The SORA WebGL Archive (Coming Soon)</summary>
-
-* 🧭 Navigate symbolic memory layers  
-* 🖼️ Interact with signal-based exhibits  
-* 👁️ Enter the Mirror Vault  
-* 🌌 Explore the Museum of Light
-
-</details>
+This GitHub profile is maintained as a professional public-facing overview. Selected materials and links are provided here for background and contact purposes.
