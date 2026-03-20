@@ -7,20 +7,22 @@
 AI Platform, Secure Deployment, and Enterprise Infrastructure Architect</p>
 
 <p align="center">
-  🔗 <a href="https://www.linkedin.com/in/sclass">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/sclass">LinkedIn</a> ·
   <a href="https://authorprofile.ieee.org/author/37891078600">IEEE Author</a> ·
   <a href="https://github.com/sclass">GitHub</a>
 </p>
 
-<p align="center"><em>Professional Contact:</em> <code>sun@sshinesystems.com</code></p>
+<p align="center"><em>Contact:</em> <code>xclass@gmail.com</code></p>
 
 ---
 
 ## Summary
 
-Customer-facing architect and engineering leader with experience across enterprise AI, cloud infrastructure, secure OTA systems, and production delivery. My work focuses on turning complex technical requirements into reliable, deployable systems for real operating environments.
+Customer-facing architect and engineering leader with experience across enterprise AI, cloud infrastructure, secure OTA systems, and production delivery.
 
-This profile highlights selected background, technical direction, and public-facing professional links related to AI platforms, secure infrastructure, and deployment-oriented engineering.
+My background spans embedded systems, connected platforms, secure backend architecture, and deployment-oriented engineering. I focus on translating complex technical requirements into reliable systems that can be evaluated, deployed, and operated in real environments.
+
+This profile serves as a professional public-facing overview of selected experience, technical direction, and public links.
 
 ---
 
@@ -62,7 +64,3 @@ This profile highlights selected background, technical direction, and public-fac
 - **SAE International Member**
 - Background in embedded networking, automotive protocols, OTA, V2X, and secure systems
 - Current focus: enterprise AI platforms, secure infrastructure, and applied deployment
-
----
-
-This GitHub profile is maintained as a professional public-facing overview. Selected materials and links are provided here for background and contact purposes.
