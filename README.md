@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="assets/profile-main-cathedral.jpg" alt="SUN PARK" width="180"/>
-</p>
+</p> 
+-->
 
 <h2 align="center">SUN (Pyungsun) PARK</h2>
 <p align="center"><strong>Ph.D. in Networking & Embedded Systems</strong><br>
